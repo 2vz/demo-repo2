@@ -1,3 +1,7 @@
-# C'est quoi cette histoire ?
+# Demo 2
 
-Mec je comprends rien.
+Some text hey
+
+## Local Development
+
+1. Open index.html in your browser.
